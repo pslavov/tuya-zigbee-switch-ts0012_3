@@ -41,7 +41,6 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
 
 | 🚧 | 📦 | 💡 | ⚡️ | 📲 |  🏭  | Zb&nbsp;Manufacturer <br> Zb&nbsp;Model | Name <br> Z2M&nbsp;page&nbsp;🔗 | Store | Threads | Status |
 | -- | -- | -- | -- | -- | :--: | :-------------------------------------- | :------------------------------ | ----: | ------: | :----- |
-| 🟩 | ✔️ | 🇸 | 🔌 | 🛜 | **TL** | `_TZ3000_e98krvvk` <br> `TS0012` | [BSEED 2-gang touch switch 🅱](https://www.zigbee2mqtt.io/devices/TS0012.html) | [`AlEx`](https://www.aliexpress.com/item/1005002570240546.html) | [`#229`](https://github.com/romasku/tuya-zigbee-switch/issues/229) | Supported | 
 | 🟩 | ✔️ | 🇸 | 🔌 | 🛜 | **TL** | `_TZ3000_dlp6yvs8` <br> `TS0012` | [LerLink 2-gang switch](https://www.zigbee2mqtt.io/devices/ZS-EUB_2gang.html) |   |   | Supported | 
 | 🟩 | ✔️ | 🇸 | 🔌 | 🛜 | **TL** | `_TZ3000_qp7x8u3a` <br> `TS0013` | [LerLink 3-gang switch](https://www.zigbee2mqtt.io/devices/TS0013.html) |   |   | Supported | 
 
