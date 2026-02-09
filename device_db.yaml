@@ -3554,7 +3554,7 @@ SWITCH_BSEED_TOUCH_TS0012_2:
 #   - https://moeshouse.com/collections/eu-star-ring
 #   - https://www.aliexpress.com/item/1005005178075186.html
 #   - https://www.aliexpress.com/item/1005005178430448.html
-SWITCH_MOES_ALL_TS0013:
+SWITCH_LERLINK_ALL_TS0013:
   human_name: LerLink 3-gang switch
   category: switch
   power: mains
