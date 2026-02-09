@@ -2927,35 +2927,32 @@
 #   info: Supported
 #   threads: https://github.com/romasku/tuya-zigbee-switch/issues/229
 #   store: https://www.aliexpress.com/item/1005002570240546.html
-
-SWITCH_BSEED_TOUCH_TS0012_2:
-  human_name: BSEED 2-gang touch switch 🅱
-  category: switch
-  power: mains
-  neutral: without
-  device_type: end_device
-  stock_model_name: TS0012
-  stock_manufacturer_name: _TZ3000_e98krvvk
-  stock_converter_manufacturer: Tuya
-  stock_converter_model: TS0012
-  override_z2m_device: null
-  tuya_module: ZTU
-  mcu_family: Telink
-  mcu: TLSR8258
-  config_str: e98krvvk;Bseed-2-gang-3;LC3;SB6u;RD3;IC2;SA1u;RC0;IB4;M;
-  config_str: dlp6yvs8;TS0002-MA04-11;LC4i;SB4u;RC2;ID2i;SB5u;RC3;ID7i;M;
-  alt_config_str: null
-  old_manufacturer_names: null
-  old_zb_models: null
-  stock_manufacturer_id: 4417
-  stock_image_type: 54179
-  firmware_image_type: 43569
-  build: yes
-  status: fully_supported
-  info: Supported
-  threads: https://github.com/romasku/tuya-zigbee-switch/issues/229
-  store: https://www.aliexpress.com/item/1005002570240546.html
-
+# SWITCH_BSEED_TOUCH_TS0012_2:
+#   human_name: BSEED 2-gang touch switch 🅱
+#   category: switch
+#   power: mains
+#   neutral: without
+#   device_type: end_device
+#   stock_model_name: TS0012
+#   stock_manufacturer_name: _TZ3000_e98krvvk
+#   stock_converter_manufacturer: Tuya
+#   stock_converter_model: TS0012
+#   override_z2m_device: null
+#   tuya_module: ZTU
+#   mcu_family: Telink
+#   mcu: TLSR8258
+#   config_str: e98krvvk;Bseed-2-gang-3;LC3;SB6u;RD3;IC2;SA1u;RC0;IB4;M;
+#   alt_config_str: null
+#   old_manufacturer_names: null
+#   old_zb_models: null
+#   stock_manufacturer_id: 4417
+#   stock_image_type: 54179
+#   firmware_image_type: 43569
+#   build: yes
+#   status: fully_supported
+#   info: Supported
+#   threads: https://github.com/romasku/tuya-zigbee-switch/issues/229
+#   store: https://www.aliexpress.com/item/1005002570240546.html
 # SWITCH_BSEED_TOUCH_TS0013:
 #   human_name: BSEED 3-gang touch switch
 #   category: switch
