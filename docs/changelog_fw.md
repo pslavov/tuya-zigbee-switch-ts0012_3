@@ -1,4 +1,4 @@
-*Open the **Outline** (table of contents) from the top right.*  
+*Open the **Outline** (table of contents) from the top right.*
 
 # Firmware Changelog
 
@@ -37,7 +37,7 @@ Please describe what you are working on:
 
 ### Bugs
 
-- **Fixed** 
+- **Fixed**
   - Setting 'long press duration' to 0ms crashes device
   - Can't change device imageType in config string
   - Option 'Relay indicator - manual on' is not kept after reboot
@@ -69,9 +69,9 @@ Please describe what you are working on:
 
 ### Bugs
 
-- **Fixed** 
+- **Fixed**
   - Old SDK freezes device in some network conditions
-- **New** 
+- **New**
   - Floating pin (or other device conditions) **freezes device**
   - Setting 'long press duration' to 0ms **crashes device**
   - Can't change device imageType in config string
@@ -87,7 +87,7 @@ Please describe what you are working on:
 
 ### New features
 
-- Add support for Zigbee commands: 
+- Add support for Zigbee commands:
   - **off_with_effect** (0x40)
   - **on_with_recall_global_scene** (0x41)
 - Add support for **normally-closed momentary buttons**
@@ -97,7 +97,7 @@ Please describe what you are working on:
 
 ### Changes
 
-- (technical) Updated memory map: moved NV items from ZCL to APP.  
+- (technical) Updated memory map: moved NV items from ZCL to APP.
   **Due to this change, device configuration (user settings) may reset after OTA update.**
 
 ### Bugs
@@ -110,15 +110,15 @@ Please describe what you are working on:
 
 ### New features
 
-- Add support for the **levelCtrl** cluster  
-  - This enables brightness control of compatible Zigbee bulbs via Zigbee binding.  
-  - The feature works only for momentary switches using long press: once a long press is detected, brightness will begin to slowly change. Each subsequent long press reverses the direction (increase/decrease).  
+- Add support for the **levelCtrl** cluster
+  - This enables brightness control of compatible Zigbee bulbs via Zigbee binding.
+  - The feature works only for momentary switches using long press: once a long press is detected, brightness will begin to slowly change. Each subsequent long press reverses the direction (increase/decrease).
   - Requires manual update of converters and reconfiguration.
 
 ### Changes
 
 - Increase the number of **presses required to reset the device to 10.**
-- Update manufacturer names to match the stock firmware.  
+- Update manufacturer names to match the stock firmware.
   (requires interview; but it's not mandatory, as backwards compatibility is kept)
 
 ### Bugs
