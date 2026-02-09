@@ -162,7 +162,7 @@ class CustomWindowCoveringCluster(CustomCluster, WindowCovering):
 
 CONFIGS = [
     "dlp6yvs8;TS0002-MA04-11;LC4i;SB4u;RC2;ID2i;SB5u;RC3;ID7i;M;",
-    "dlp6yvs8;LerLink-2-gang;SA0u;RB4;ID7;SB7u;RB5;ID2;M;",
+    "dlp6yvs8;LerLink-2-gang;SA0u;RB4;ID7i;SB7u;RB5;ID2i;M;",
     "qp7x8u3a;LerLink-3-gang;SA0u;RB4;ID7;SC2u;RC3;IB1;SB7u;RB5;ID2;M;",
 ]
 
